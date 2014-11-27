@@ -35,7 +35,7 @@ Level
 ========
 
 Each level of BugBlast has a dfferent maze and different game parameters. This parameters are stored in data files, so 
-the player can create various on you own. The parameters look like the following,<br>
+the player can create various mazes on you own. The parameters look like the following,<br>
 <pre>
 
 ############### 
